@@ -1,2 +1,9 @@
-# Calculadora-python
-Calculadora simples em Python para treinar programação.
+# Calculadora em Python
+
+Projeto para treinar lógica e programação.
+
+# Como usar:
+python calculadora.py
+
+# Autor:
+Heitor José Ferraz
