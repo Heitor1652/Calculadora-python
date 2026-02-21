@@ -3,14 +3,14 @@
 Este projeto é uma calculadora simples desenvolvida em Python
 que permite realizar operações matemáticas básicas.
 
-# Funcionalidades
+# Funcionalidades:
 - Soma
 - Subtração
 - Multiplicação
 - Divisão
 - Validação de entrada do usuário
 
-# Como executar
+# Como executar:
 
 1. Tenha o Python instalado
 2. Baixe o arquivo do projeto
@@ -18,8 +18,8 @@ que permite realizar operações matemáticas básicas.
 
 python calculadora.py
 
-# Tecnologias
+# Tecnologias:
 - Python 3
 
-# Autor
+# Autor:
 Heitor José Ferraz
