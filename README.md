@@ -1,25 +1,32 @@
-#  Calculadora em Python
+# Calculadora em Python
 
-Este projeto é uma calculadora simples desenvolvida em Python
-que permite realizar operações matemáticas básicas.
+Uma calculadora desenvolvida em Python, capaz de realizar operações matemáticas básicas como soma, subtração, multiplicação, divisão e porcentagem.
 
-# Funcionalidades:
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-- Validação de entrada do usuário
+Este projeto foi criado com o objetivo de praticar lógica de programação e fundamentos da linguagem Python, sendo ideal para iniciantes que estão aprendendo desenvolvimento.
 
-# Como executar:
+# Funcionalidades
 
-1. Tenha o Python instalado
-2. Baixe o arquivo do projeto
-3. No terminal, execute:
+*  Soma
+*  Subtração
+*  Multiplicação
+*  Divisão
+*  Porcentagem
+*  Entrada de números pelo usuário
+*  Exibição do resultado no terminal
 
-python calculadora.py
+# Tecnologias utilizadas
 
-# Tecnologias:
-- Python 3
+Python 3
 
-# Autor:
-Heitor José Ferraz
+# Objetivo do projeto
+
+* Praticar lógica de programação
+* Aprender entrada e saída de dados
+* Trabalhar com condicionais e operações matemáticas
+* Criar um primeiro projeto para portfólio no GitHub
+
+# Autor
+
+Desenvolvido por Heitor José Ferraz
+
+obs.: Projeto criado para fins de aprendizado em programação.
